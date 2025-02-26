@@ -1,1 +1,8 @@
-
+torch==1.2.0
+python=3.8
+torchvision=0.13
+tqdm=4.64
+scipy=1.91
+pillow=9.4
+pandas=2.0.3
+numpy=1.23.3
